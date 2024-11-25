@@ -1,4 +1,4 @@
-# Emotion-Recognition-Python-Opnecv-Keras
+# Emotion Recognition
 
 Created a emotion detection model using python, opencv, numpy, keras 
 
